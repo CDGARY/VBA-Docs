@@ -48,5 +48,5 @@ ms.localizationpriority: medium
 |IPM.TaskRequest.Decline|Responses to decline task requests|
 |IPM.TaskRequest|Task requests|
 |IPM.TaskRequest.Update| Updates to requested tasks|
-
+|IPM.Note.Microsoft.Voicemail.UM, IPM.Note.Microsoft.Voicemail.UM.CA, IPM.Note.Microsoft.Missed.Voice, IPM.Note.rpmsg.Microsoft.Voicemail.UM.CA, and IPM.Note.rpmsg.Microsoft.Voicemail.UM| Voicemail|   
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
