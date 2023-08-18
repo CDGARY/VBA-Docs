@@ -48,5 +48,9 @@ ms.localizationpriority: medium
 |IPM.TaskRequest.Decline|Responses to decline task requests|
 |IPM.TaskRequest|Task requests|
 |IPM.TaskRequest.Update| Updates to requested tasks|
-
+|IPM.Note.Microsoft.Voicemail.UM|Voice messages: Original messages taken with audio content by telephone.| 
+|IPM.Note.Microsoft.Voicemail.UM.CA|Voice messages: Original messages taken with audio content by telephone but not as a result of call answering (for example, if the phone of the recipient did not ring).| 
+|IPM.Note.Microsoft.Missed.Voice|Voice messages: Missed Call Notification|
+|IPM.Note.rpmsg.Microsoft.Voicemail.UM.CA|Voice messages: Original messages taken with audio content by telephone as a result of call answering.|
+|IPM.Note.rpmsg.Microsoft.Voicemail.UM|Voice messages: Original messages taken with audio content by telephone as a result of any scenario other than call answering.|
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
